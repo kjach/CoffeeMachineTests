@@ -1,0 +1,24 @@
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\MySql.Data.dll
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\System.Data.dll
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachineProject.CoffeeMachineForm.resources
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachineProject.Properties.Resources.resources
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachineProject.csproj.GenerateResource.Cache
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachineProject.csprojResolveAssemblyReference.cache
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\bin\Debug\MySql.Data.dll
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\bin\Debug\System.Data.dll
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachineProject.csproj.AssemblyReference.cache
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachineProject.CoffeeMachineForm.resources
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachineProject.Properties.Resources.resources
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachineProject.csproj.GenerateResource.cache
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachineProject.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachineProject.csproj.CopyComplete
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\kacpe\STUDIA\Semestr 4\Testowanie\Coffee-Machine-master\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
